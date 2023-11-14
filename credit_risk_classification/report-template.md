@@ -14,17 +14,17 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ** Machine Learning Model 1
 * Balanced Accuracy: 95%
-*Precision for Class 0: 1.00
-*Recall for Class 0: .99
-*Precision for Class 1: .85
-*Recall for Class 1: .91
+* Precision for Class 0: 1.00
+* Recall for Class 0: .99
+* Precision for Class 1: .85
+* Recall for Class 1: .91
 
 ** Machine Learning Model 2
-*Balanced Accuracy: 99.5%
-*Precision for Class 0: .99
-*Recall for Class 0: .99
-*Precision for Class 1: .99
-*Recall for Class 1: .99
+* Balanced Accuracy: 99.5%
+* Precision for Class 0: .99
+* Recall for Class 0: .99
+* Precision for Class 1: .99
+* Recall for Class 1: .99
 
 ## Summary
 
